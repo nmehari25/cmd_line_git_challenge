@@ -1,4 +1,3 @@
 # Command Line & Git Challenge
 
-Thi
-s is my challenge repo
+This is my challenge repo
